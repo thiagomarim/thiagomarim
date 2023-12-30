@@ -1,14 +1,23 @@
-# 😎  Olá, Eu me chamo Thiago Marim
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thiagomarim/f943f06d78ce1568cbe67756fafc4087/raw/ef9f336635c12ba827307b4449b79b969fc370be/githubcard.svg"/>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Thiago Marim</h1>
+
 
 - 🔥 Desenvolvedor Front-end
 
-- 🔭 Atualmente estou apenas me aprimorando como profissional
+- 🔭 Atualmente estou apenas aprimorando o meu conhecimento como desenvolvedor Front-end
 
-- 👨‍💻 Aqui está o meu [Portfolio]()
+- 👨‍💻 Aqui está o meu [Portfolio](https://thiagomarim.github.io/projeto-portfolio/).
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-# 📊 GitHub Stats:
+<div style="display: inline_block"><br>
+  <img align="center" alt="thi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="thi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="thi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="thi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="center" alt="thi-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+</div>
+
+<br> <br/>
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarim&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
