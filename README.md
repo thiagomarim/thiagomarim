@@ -7,6 +7,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarim&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thiagomarim&icon=1&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
