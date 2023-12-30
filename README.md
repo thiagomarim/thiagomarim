@@ -4,7 +4,7 @@
 
 - 🔥 Desenvolvedor Front-end
 
-- 🔭 Atualmente estou apenas aprimorando o meu conhecimento como desenvolvedor Front-end
+- 🔭 Atualmente estou aprimorando o meu conhecimento como desenvolvedor Front-end
 
 - 👨‍💻 Aqui está o meu [Portfolio](https://thiagomarim.github.io/projeto-portfolio/).
 
