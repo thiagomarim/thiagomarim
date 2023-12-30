@@ -16,8 +16,3 @@
   <img align="center" alt="thi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
   <img align="center" alt="thi-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
 </div>
-
-<br> <br/>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomarim&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
