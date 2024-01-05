@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/thiagomarim/f943f06d78ce1568cbe67756fafc4087/raw/ef9f336635c12ba827307b4449b79b969fc370be/githubcard.svg"/>
+
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Meu nome é Thiago Marim</h1>
 
 
