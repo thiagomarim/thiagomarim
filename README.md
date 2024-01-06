@@ -6,7 +6,7 @@
 
 - 🔭 Atualmente estou aprimorando o meu conhecimento como desenvolvedor Front-end
 
-- 👨‍💻 Aqui está o meu [Portfolio](https://thiagomarim.github.io/projeto-portfolio/).
+- 👨‍💻 Aqui está o meu [Portfolio](https://thiagomarim-portfolio.vercel.app/).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="thi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
