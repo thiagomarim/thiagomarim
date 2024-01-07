@@ -9,7 +9,7 @@ Eu me chamo Thiago Soares Marim, possuo 18 anos, sou totalmente apaixonado pelo 
 * 🌍  Eu estou localizado em São Paulo - Brasil
 * 🖥️  Veja o meu portfolio [Aqui](https://thiagomarim-portfolio.vercel.app/)
 * ✉️  Entre em contato comigo [thiago.marim2005@gmail.com](mailto:thiago.marim2005@gmail.com)
-* 🧠  Estou aprendendo TypeScript
+* 🧠  Atualmente estou aprendendo TypeScript
 * 🤝  Estou aberto para desenvolver website
 
 ### Skills
@@ -20,4 +20,4 @@ Eu me chamo Thiago Soares Marim, possuo 18 anos, sou totalmente apaixonado pelo 
 
 ### Redes sociais
 
-<p align="left"> <a href="https://discord.com/users/th1fps" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/thimarim" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/thiago-marim/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://www.linkedin.com/in/thiago-marim/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
