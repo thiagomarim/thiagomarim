@@ -9,7 +9,7 @@ Eu me chamo Thiago Soares Marim, possuo 18 anos, sou totalmente apaixonado pelo 
 * 🌍  Eu estou localizado em São Paulo - Brasil
 * 🖥️  Veja o meu portfolio [Aqui](https://thiagomarim-portfolio.vercel.app/)
 * ✉️  Entre em contato comigo [thiago.marim2005@gmail.com](mailto:thiago.marim2005@gmail.com)
-* 🧠  Atualmente estou aprendendo TypeScript
+* 🧠  Atualmente estou aprendendo Next.js
 * 🤝  Estou a procura da minha primeira oportunidade como Desenvolvedor Web.
 
 ### Skills
