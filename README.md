@@ -1,5 +1,7 @@
 ## Sejá bem vindo(a) 👋
 
+<a href="https://github.com/thiagomarim/thiagomarim/blob/main/README-EN.md">You don't speak Portuguese? Click here to view the english version.</a>
+
 ### Desenvolvedor Front End
 
 Eu me chamo Thiago Soares Marim 🚀, possuo 18 anos, sou totalmente apaixonado pelo Front-end. Quando tive o meu primeiro contato com a programação me apaixonei de cara, a partir desse dia venho me empenhando e me desenvolvendo para ficar cada vez melhor e conseguir a minha primeira oportunidade no mercado de trabalho.
