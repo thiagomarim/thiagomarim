@@ -1,31 +1,18 @@
-## Sejá bem vindo(a) 👋
+### Olá, eu sou o Thiago! 👋
 
-<a href="https://github.com/thiagomarim/thiagomarim/blob/main/README-EN.md">You don't speak Portuguese? Click here to view the english version.</a>
+🚀 18 anos <br>
+🌎 Nascido em São Paulo, Brasil <br>
+💻 Atualmente estou em busca da minha primeira oportunidade como Desenvolvedor Front-end <br>
+🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE)<br>
 
-### Desenvolvedor Front End
 
-Eu me chamo Thiago Soares Marim 🚀, possuo 18 anos, sou totalmente apaixonado pelo Front-end. Quando tive o meu primeiro contato com a programação me apaixonei de cara, a partir desse dia venho me empenhando e me desenvolvendo para ficar cada vez melhor e conseguir a minha primeira oportunidade no mercado de trabalho.
+### O que eu estou fazendo 👨‍💻
 
-### Atualmente minha stack é:
+📚 Estudando mais sobre o [Next.js](https://nextjs.org/) <br>
+💌 Desenvolvendo uma biblioteca de components UI/UX Design. <br>
 
-💻 Desenvolvimento Web front-end com ReactJS em conjunto de suas bibliotecas derivadas como NextJS e TailwindCSS.
+### Me encontre por aqui 🌎
 
-### Sobre mim:
-
-- 🌍  Eu estou localizado em São Paulo - Brasil
-
-- 📚 Estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE - Universidade Nove de Julho.
-
-- 🖥️  Veja o meu portfolio [Aqui](https://thiagomarim.vercel.app/)
-
-- ✉️  Entre em contato comigo [thiago.marim2005@gmail.com](mailto:thiago.marim2005@gmail.com)
-
-- 🧠  Atualmente estou aprendendo Next.js
-
-- 🤝  Estou a procura da minha primeira oportunidade como Desenvolvedor Front-end.
-
-<hr>
-
-### Entre em contato comigo em:
-[![Linkedin](https://img.shields.io/badge/Linkedin-2867b2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-marim/)
-[![E-mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.marim2005@gmail.com)
+🚀 [Site](https://thiagomarim.vercel.app/) <br>
+📸 [Instagram](https://instagram.com/thimarim) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/thiago-marim/) <br>
