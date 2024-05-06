@@ -16,7 +16,7 @@ Eu me chamo Thiago Soares Marim 🚀, possuo 18 anos, sou totalmente apaixonado 
 
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas na UNINOVE - Universidade Nove de Julho.
 
-- 🖥️  Veja o meu portfolio [Aqui](https://thiagomarim-me.vercel.app/)
+- 🖥️  Veja o meu portfolio [Aqui](https://thiagomarim.vercel.app/)
 
 - ✉️  Entre em contato comigo [thiago.marim2005@gmail.com](mailto:thiago.marim2005@gmail.com)
 
