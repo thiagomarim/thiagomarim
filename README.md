@@ -9,7 +9,7 @@
 ### O que eu estou fazendo 👨‍💻
 
 📚 Estudando mais sobre o [Next.js](https://nextjs.org/) <br>
-☕ Desenvolvendo uma aplicação de encomenda de cafés. <br>
+😎 Desenvolvendo um Micro Saas. <br>
 
 ### Me encontre por aqui 🌎
 
