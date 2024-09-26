@@ -8,8 +8,7 @@
 
 ### O que eu estou fazendo 👨‍💻
 
-📚 Estudando mais sobre o [Next.js](https://nextjs.org/) <br>
-😎 Desenvolvendo um Micro Saas. <br>
+📚 Estudando mais sobre o [Next.js](https://nextjs.org/) e [Liquid](https://shopify.dev/docs/api/liquid) <br>
 
 ### Me encontre por aqui 🌎
 
