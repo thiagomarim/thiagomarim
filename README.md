@@ -2,7 +2,7 @@
 
 🚀 19 anos <br>
 🌎 Nascido em São Paulo, Brasil <br>
-💻 Atualmente estou em busca da minha primeira oportunidade como Desenvolvedor Front-end <br>
+💻 Desenvolvedor Front-end <br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE)<br>
 
 
