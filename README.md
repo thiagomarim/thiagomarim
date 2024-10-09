@@ -2,7 +2,7 @@
 
 🚀 19 anos <br>
 🌎 Nascido em São Paulo, Brasil <br>
-💻 Desenvolvedor Front-end <br>
+💻 Desenvolvedor Front-end @ [Shakers Agencia](https://shakersagencia.com.br/) <br>
 🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE)<br>
 
 
