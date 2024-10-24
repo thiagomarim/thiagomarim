@@ -12,6 +12,6 @@
 
 ### Me encontre por aqui 🌎
 
-🚀 [Site](https://thiagomarim.vercel.app/) <br>
+🚀 [Site](https://thimarim.vercel.app/) <br>
 📸 [Instagram](https://instagram.com/thimarim) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/thiago-marim/) <br>
