@@ -1,17 +1,10 @@
-### Olá, eu sou o Thiago! 👋
+### Hey, I'm Thiago! 👋
 
-🚀 19 anos <br>
-🌎 Nascido em São Paulo, Brasil <br>
-💻 Desenvolvedor Front-end @ [Shakers Agencia](https://shakersagencia.com.br/) <br>
-🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho (UNINOVE)<br>
+🎓 Studying **Analysis and Systems Development** at [UNINOVE](https://www.uninove.br) Based in São Paulo, Brazil <br>
+💻 Frontend Developer at [**@Shakers**](https://shakersagencia.com.br/) 
 
+### Find me elsewhere 🌎
 
-### O que eu estou fazendo 👨‍💻
-
-📚 Estudando mais sobre o [Next.js](https://nextjs.org/) e [Liquid](https://shopify.dev/docs/api/liquid) <br>
-
-### Me encontre por aqui 🌎
-
-🚀 [Site](https://thimarim.vercel.app/) <br>
-📸 [Instagram](https://instagram.com/thimarim) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/thiago-marim/) <br>
+🌐 [Portfolio](https://thimarim.vercel.app/en) <br>
+🐦 [Twitter](https://x.com/thiaagomarim) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/thiago-marim) <br>
